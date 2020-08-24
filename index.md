@@ -10,3 +10,4 @@ I'm glad you are here. I plan to talk about ...
 - Customizing the site
 - Adding metadata
 - Merging a blog post
+- Correct Errors
