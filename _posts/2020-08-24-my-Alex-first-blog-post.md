@@ -1,5 +1,5 @@
 ---
-title: SUPER AWESOMENESS BLOG
+title: "SUPER AWESOMENESS BLOG"
 date: 2020-08-24
 ---
 
